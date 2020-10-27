@@ -1,5 +1,5 @@
 # Storage-Management-and-Retrieval
-A JAVA based memory management and storage retrieval system design
+A JAVA based document management and retrieval system design
 
 ## AIM
 Develop an application to manage document storage and retrieval.
