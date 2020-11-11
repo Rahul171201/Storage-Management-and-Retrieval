@@ -17,7 +17,7 @@ Develop an application to manage document storage and retrieval.
  
 ## Technology used:
 JAVA  
-APPLET  
+JAVA GUI 
 
 ## Content
 UML diagrams:-Use Case diagram, Class diagram, CRC diagram(s), illustrating the design of your program.  
